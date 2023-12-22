@@ -8,3 +8,4 @@ In this video I show you how to build a parking space detector and counter with 
 
 You can download the data and model I used in this tutorial [here](https://drive.google.com/drive/folders/1CjEFWihRqTLNUnYRwHXxGAVwSXF2k8QC?usp=sharing).
 # Major_Project
+# Major_Project
